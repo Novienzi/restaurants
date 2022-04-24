@@ -26,7 +26,7 @@ This project uses environment variables likes :
 ----------
 
 ## Database Diagram
-
+https://dbdiagram.io/d/626011421072ae0b6ab92c01
 
 ----------
 
@@ -56,7 +56,7 @@ Auto import can be used in all of controller, middleware, and helper functions
 ----------
 
 ## Postman Documentation
-
+https://documenter.getpostman.com/view/13002065/UyrAGdEk
 
 ----------
 
