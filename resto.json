@@ -1,0 +1,423 @@
+[
+    {
+        "cashBalance": 4483.84,
+        "menu": [
+            {
+                "dishName": "Postum cereal coffee",
+                "price": 13.88
+            },
+            {
+                "dishName": "GAI TOM KA: CHICKEN IN COCONUT CREAM SOUP WITH LIME JUICE GALANGA AND CHILI",
+                "price": 10.64
+            },
+            {
+                "dishName": "Coffee Cocktail (Port Wine",
+                "price": 12.45
+            },
+            {
+                "dishName": "La Romaine Braisée au Fond de Veau",
+                "price": 10.59
+            },
+            {
+                "dishName": "DRY LIGHT IMPORTED WINE",
+                "price": 13.5
+            },
+            {
+                "dishName": "Broiled Pompano",
+                "price": 13.5
+            },
+            {
+                "dishName": "Dean Yale School of Medicine",
+                "price": 12.56
+            },
+            {
+                "dishName": "Place here Stamp",
+                "price": 12.38
+            },
+            {
+                "dishName": "1908 Berncasteler",
+                "price": 11.64
+            },
+            {
+                "dishName": "Hummersuppe Filetsteak Nelson",
+                "price": 10.51
+            },
+            {
+                "dishName": "Hominy",
+                "price": 10.2
+            },
+            {
+                "dishName": "Baltimore terrapin",
+                "price": 14.0
+            },
+            {
+                "dishName": "Lettuce and Tomato Salads",
+                "price": 11.79
+            },
+            {
+                "dishName": "Sweet Virginia Pickles",
+                "price": 10.15
+            }
+        ],
+        "openingHours": "Mon, Fri 2:30 pm - 8 pm / Tues 11 am - 2 pm / Weds 1:15 pm - 3:15 am / Thurs 10 am - 3:15 am / Sat 5 am - 11:30 am / Sun 10:45 am - 5 pm",
+        "restaurantName": "'Ulu Ocean Grill and Sushi Lounge"
+    },
+    {
+        "cashBalance": 4882.81,
+        "menu": [
+            {
+                "dishName": "Sweetbreads",
+                "price": 13.57
+            },
+            {
+                "dishName": "Old pepper bourbon",
+                "price": 10.15
+            },
+            {
+                "dishName": "Whiskey Cocktails",
+                "price": 10.25
+            },
+            {
+                "dishName": "Filets de poularde",
+                "price": 11.15
+            },
+            {
+                "dishName": "Baked Weakfish with Boiled Potatoes",
+                "price": 10.25
+            },
+            {
+                "dishName": "Ox=tail Ragout with Vegetables",
+                "price": 10.35
+            },
+            {
+                "dishName": "1952er Gau Algesheimer Stolzenberg natur",
+                "price": 12.34
+            },
+            {
+                "dishName": "Caneton à l'Orange",
+                "price": 11.09
+            },
+            {
+                "dishName": "*COLD-Mayonnaise of Fish Printaniere",
+                "price": 12.0
+            },
+            {
+                "dishName": "Rum & Raisin Ice Cream",
+                "price": 13.86
+            },
+            {
+                "dishName": "Fried",
+                "price": 10.25
+            },
+            {
+                "dishName": "German potato salad",
+                "price": 10.1
+            }
+        ],
+        "openingHours": "Mon, Weds 11:45 am - 4:45 pm / Tues 7:45 am - 2 am / Thurs 5:45 pm - 12 am / Fri, Sun 6 am - 9 pm / Sat 10:15 am - 9 pm",
+        "restaurantName": "024 Grille"
+    },
+    {
+        "cashBalance": 1320.19,
+        "menu": [
+            {
+                "dishName": "Chicken Bouillon with Rice (10 min.)",
+                "price": 13.95
+            },
+            {
+                "dishName": "Frogs' legs in every style",
+                "price": 11.95
+            },
+            {
+                "dishName": "Komarinon",
+                "price": 12.81
+            },
+            {
+                "dishName": "Le Fromage Assortie",
+                "price": 12.13
+            },
+            {
+                "dishName": "Frog legs saute",
+                "price": 11.0
+            },
+            {
+                "dishName": "Broiled Redfish Steak",
+                "price": 10.1
+            },
+            {
+                "dishName": "Filet of kingfish",
+                "price": 12.13
+            },
+            {
+                "dishName": "Marinated Mackerel",
+                "price": 13.3
+            },
+            {
+                "dishName": "Beefsteak braise",
+                "price": 12.8
+            }
+        ],
+        "openingHours": "Mon, Weds 3:45 pm - 5 pm / Tues 11:30 am - 3 am / Thurs 10 am - 11:30 pm / Fri 7 am - 9:45 am / Sat 12:45 pm - 1:15 pm / Sun 2 pm - 7 pm",
+        "restaurantName": "100% Mexicano Restaurant"
+    },
+    {
+        "cashBalance": 4629.91,
+        "menu": [
+            {
+                "dishName": "Fillet of Sole",
+                "price": 10.9
+            },
+            {
+                "dishName": "Consomme Dame Blanche",
+                "price": 10.3
+            },
+            {
+                "dishName": "Fasan in Speck",
+                "price": 13.3
+            }
+        ],
+        "openingHours": "Mon 5:30 am - 6 pm / Tues 10 am - 12:15 am / Weds 1:45 pm - 4:45 pm / Thurs 7:15 am - 3:45 am / Fri 1:30 pm - 12:45 am / Sat 7 am - 11:45 am / Sun 1:15 pm - 12:30 am",
+        "restaurantName": "100% de Agave"
+    },
+    {
+        "cashBalance": 2614.96,
+        "menu": [
+            {
+                "dishName": "Rasher of Bacon served with Broiled Meats",
+                "price": 12.93
+            },
+            {
+                "dishName": "Ugnstekt Apple",
+                "price": 10.43
+            },
+            {
+                "dishName": "small beefsteak with fried potatoes",
+                "price": 10.7
+            },
+            {
+                "dishName": "Chateau Siran (Margaux) 1970",
+                "price": 11.76
+            },
+            {
+                "dishName": "Filtre",
+                "price": 11.17
+            }
+        ],
+        "openingHours": "Mon, Weds 5:15 am - 8:30 pm / Tues, Sat 1:30 pm - 3:45 pm / Thurs 7:45 am - 8:15 am / Fri 1:30 pm - 7 pm / Sun 12:45 pm - 6:15 pm",
+        "restaurantName": "12 Baltimore"
+    },
+    {
+        "cashBalance": 3478.03,
+        "menu": [
+            {
+                "dishName": "U. S. Choice T-Bone Steak",
+                "price": 15.75
+            },
+            {
+                "dishName": "Newark House Sandwich",
+                "price": 10.35
+            },
+            {
+                "dishName": "Beaune",
+                "price": 12.0
+            },
+            {
+                "dishName": "Tarte Saint Honore",
+                "price": 12.06
+            },
+            {
+                "dishName": "Petits Fanchonettes",
+                "price": 13.95
+            },
+            {
+                "dishName": "Chef's Terrine of Duckling Truffee",
+                "price": 13.64
+            },
+            {
+                "dishName": "Schwäbischer Zwiebelrostbraten Röstkartoffeln",
+                "price": 13.95
+            },
+            {
+                "dishName": "Fried Guinea Hen",
+                "price": 10.75
+            },
+            {
+                "dishName": "Buttered Toast with Jam",
+                "price": 13.08
+            },
+            {
+                "dishName": "Dindonneau farcie aux truffes",
+                "price": 13.26
+            }
+        ],
+        "openingHours": "Mon 1:45 pm - 3 pm / Tues 8:45 am - 2:15 am / Weds 6:45 am - 10:45 am / Thurs, Sat 5:45 am - 11:15 am / Fri 3:45 pm - 2:30 am / Sun 5 pm - 3:45 am",
+        "restaurantName": "12th Ave. Grill"
+    },
+    {
+        "cashBalance": 960.2,
+        "menu": [
+            {
+                "dishName": "Watercress",
+                "price": 10.25
+            },
+            {
+                "dishName": "rote schweizer weine",
+                "price": 12.42
+            },
+            {
+                "dishName": "Curry of veal with rice",
+                "price": 10.5
+            },
+            {
+                "dishName": "Long Island Duck Dinner:  Relishes",
+                "price": 13.0
+            },
+            {
+                "dishName": "Mushsteak",
+                "price": 11.14
+            },
+            {
+                "dishName": "Faust's Own",
+                "price": 10.17
+            },
+            {
+                "dishName": "Potato",
+                "price": 10.4
+            },
+            {
+                "dishName": "Veal kidney en casserole Forestiere",
+                "price": 10.75
+            },
+            {
+                "dishName": "Oysters -- Stewed",
+                "price": 13.89
+            },
+            {
+                "dishName": "Beet Salad",
+                "price": 10.24
+            },
+            {
+                "dishName": "STUFFED SADDLE OF SOUTHDOWN LAMB GENERAL GRANT",
+                "price": 12.3
+            },
+            {
+                "dishName": "Lobster in Shell",
+                "price": 12.2
+            },
+            {
+                "dishName": "Rist med sveppum i sherry-rjomadyfu",
+                "price": 12.82
+            },
+            {
+                "dishName": "Selection of Pastry",
+                "price": 10.05
+            }
+        ],
+        "openingHours": "Mon 5 pm - 10:30 pm / Tues, Sat 5 pm - 6:45 pm / Weds - Thurs 3:15 pm - 3:45 am / Fri 9:15 am - 10:45 am / Sun 10:45 am - 3:45 pm",
+        "restaurantName": "13 Coins"
+    },
+    {
+        "cashBalance": 4841.8,
+        "menu": [
+            {
+                "dishName": "glaces en souvenir",
+                "price": 10.75
+            },
+            {
+                "dishName": "Blumenkohl uberbacken mit Puree",
+                "price": 11.16
+            },
+            {
+                "dishName": "Hors d'œuvres",
+                "price": 10.29
+            },
+            {
+                "dishName": "Kasseler Rippenspeer in Burgunder mit Tessiner Kraut und Purre",
+                "price": 11.58
+            },
+            {
+                "dishName": "Pommes a la Portugaise",
+                "price": 10.26
+            },
+            {
+                "dishName": "Sliced turkey",
+                "price": 11.25
+            },
+            {
+                "dishName": "Blandade Grönsaker i Smör",
+                "price": 10.09
+            },
+            {
+                "dishName": "SQUABE FARCI SUR CANAPE A LA KINKEL",
+                "price": 12.79
+            },
+            {
+                "dishName": "Skillet Steak with Smothered Onions",
+                "price": 12.53
+            }
+        ],
+        "openingHours": "Mon - Weds 11 am - 9 pm / Thurs 6 am - 9 pm / Fri 12:15 pm - 7 pm / Sat 2:45 pm - 1:30 am / Sun 7 am - 4:15 pm",
+        "restaurantName": "1515 Restaurant"
+    },
+    {
+        "cashBalance": 3211.97,
+        "menu": [
+            {
+                "dishName": "Prairiehuhn",
+                "price": 11.51
+            },
+            {
+                "dishName": "Banana ice cup",
+                "price": 10.94
+            },
+            {
+                "dishName": "CRAB CAKE lighlty breaded & oh",
+                "price": 13.94
+            },
+            {
+                "dishName": "Niersteiner C. Lauteren Sohn Hock Wine",
+                "price": 11.25
+            },
+            {
+                "dishName": "English Breakfast or Oolong tea",
+                "price": 11.97
+            },
+            {
+                "dishName": "Cigar",
+                "price": 10.06
+            },
+            {
+                "dishName": "Cold Corned Beef with Potato Salad",
+                "price": 11.48
+            }
+        ],
+        "openingHours": "Mon 6 am - 8:30 pm / Tues - Weds 6:45 am - 3 pm / Thurs 6:15 am - 8:30 am / Fri 4 pm - 10:15 pm / Sat 1:30 pm - 11:45 pm / Sun 6:30 am - 8:15 am",
+        "restaurantName": "15Fifty - Sheraton - Starwood"
+    },
+    {
+        "cashBalance": 4260.93,
+        "menu": [
+            {
+                "dishName": "Bisquit 3-Star",
+                "price": 10.5
+            },
+            {
+                "dishName": "Serbische Bohnensuppe",
+                "price": 12.44
+            },
+            {
+                "dishName": "Bean Curd with Beef",
+                "price": 10.55
+            },
+            {
+                "dishName": "Tourist Luncheon in Box",
+                "price": 10.45
+            },
+            {
+                "dishName": "Oysters",
+                "price": 10.6
+            }
+        ],
+        "openingHours": "Mon 4:30 pm - 11:15 pm / Tues, Sat 3:30 pm - 5 pm / Weds 5:15 am - 9:30 pm / Thurs 1 pm - 2:15 pm / Fri 6:45 am - 7:45 am / Sun 8:30 am - 2 am",
+        "restaurantName": "17 at The Sam Houston Hotel-Houston"
+    }]
