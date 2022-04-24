@@ -1,3 +1,5 @@
+
+
 insert into restaurants ("name", balance, created_at, updated_at)
 values ('Ulu Ocean Grill and Sushi Lounge', 4483.84, now(), now()),
 ('024 Grille', 4882.81,now(), now()),
@@ -12,8 +14,37 @@ values ('Ulu Ocean Grill and Sushi Lounge', 4483.84, now(), now()),
 
 
 insert into schedules (day, opening_hours, closing_hours, restaurant_id, created_at, updated_at)
-values ('Fri', '14:30:00', '20:00:00' , 1, now(), now()),
-('Tue', '11:00:00', '14:00:00' , 1, now(), now());
+values ('Mon', '14:30:00', '20:00:00' , 1, now(), now()),
+('Fri', '14:30:00', '20:00:00' , 1, now(), now()),
+('Tue', '11:00:00', '14:00:00' , 1, now(), now()),
+('Wed', '13:15:00', '24:00:00' , 1, now(), now()),
+('Thu', '03:15:00', '24:00:00' , 1, now(), now()),
+('Sat', '10:00:00', '11:30:00' , 1, now(), now()),
+('Sun', '10:45:00', '17:00:00' , 1, now(), now()),
+
+('Mon', '11:45:00', '16:45:00' , 2, now(), now()),
+('Wed', '11:45:00', '16:45:00' , 2, now(), now()),
+('Fri', '06:00:00', '09:00:00' , 2, now(), now()),
+('Tue', '07:45:00', '14:00:00' , 2, now(), now()),
+('Thu', '05:45:00', '24:00:00' , 2, now(), now()),
+('Sat', '10:15:00', '21:00:00' , 2, now(), now()),
+('Sun', '06:00:00', '09:00:00' , 2, now(), now()),
+
+('Mon', '03:45:00', '17:00:00' , 3, now(), now()),
+('Wed', '03:45:00', '17:00:00' , 3, now(), now()),
+('Fri', '06:00:00', '09:00:00' , 3, now(), now()),
+('Tue', '10:30:00', '15:00:00' , 3, now(), now()),
+('Thu', '10:00:00', '23:30:00' , 3, now(), now()),
+('Sat', '12:45:00', '13:15:00' , 3, now(), now()),
+('Sun', '14:00:00', '19:00:00' , 3, now(), now()),
+
+('Mon', '05:30:00', '18:00:00' , 4, now(), now()),
+('Wed', '13:45:00', '16:45:00' , 4, now(), now()),
+('Fri', '13:30:00', '24:00:00' , 4, now(), now()),
+('Tue', '10:00:00', '23:15:00' , 4, now(), now()),
+('Thu', '07:45:00', '15:15:00' , 4, now(), now()),
+('Sat', '07:00:00', '11:45:00' , 4, now(), now()),
+('Sun', '13:15:00', '24:00:00' , 4, now(), now());
 
 
 insert into menus (dish_name, price, restaurant_id, created_at, updated_at)
@@ -63,31 +94,31 @@ values ('Postum cereal coffee', 13.88, 1, now(), now()),
 ('Ugnstekt Apple', 10.43, 5, now(), now()),
 ('small beefsteak with fried potatoes', 10.7, 5, now(), now()),
 ('Chateau Siran (Margaux) 1970',11.76, 5, now(), now()),
-('Filtre', 11.17, 5, now(), now());
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+('Filtre', 11.17, 5, now(), now()),
+--resto 6
+('U. S. Choice T-Bone Steak',  15.75, 6, now(), now()),
+('Newark House Sandwich', 10.35, 6, now(), now()),
+('Beaune', 12.0, 6, now(), now()),
+('Tarte Saint Honore',12.6, 6, now(), now()),
+('Petits Fanchonettes', 13.95, 6, now(), now()),
+('Chefs Terrine of Duckling Truffee', 13.64,  6, now(), now()),
+('Schwäbischer Zwiebelrostbraten Röstkartoffeln', 13.95, 6, now(), now()),
+('Fried Guinea Hen', 10.75, 6, now(), now()),
+('Buttered Toast with Jam',13.8, 6, now(), now()),
+('Dindonneau farcie aux truffes', 13.26, 6, now(), now()),
+--resto 7
+('Watercress',  10.25, 7, now(), now()),
+('rote schweizer weine', 12.42, 7, now(), now()),
+('Curry of veal with rice', 10.5, 7, now(), now()),
+('Long Island Duck Dinner:  Relishes',13.0, 7, now(), now()),
+('Mushsteak', 11.14, 7, now(), now()),
+('Fausts Own', 10.17,  7, now(), now()),
+('Potato', 10.4, 7, now(), now()),
+('Veal kidney en casserole Forestiere', 10.75, 7, now(), now()),
+('Oysters -- Stewed',13.85, 7, now(), now()),
+('Beet Salad', 10.24, 6, now(), now()),
+('STUFFED SADDLE OF SOUTHDOWN LAMB GENERAL GRANT', 12.3, 7, now(), now()),
+('Lobster in Shell', 12.2, 7, now(), now()),
+('Rist med sveppum i sherry-rjomadyfu',12.82, 7, now(), now()),
+('Selection of Pastry', 10.05, 7, now(), now());
 

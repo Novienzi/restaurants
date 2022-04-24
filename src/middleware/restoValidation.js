@@ -3,7 +3,7 @@ const joi = require("joi");
 const { BadRequest} = require('../helper/error')
 
 const validateDate = joi.object({
-   datetime : joi.date().iso().required
+   datetime : joi.date().iso().required()
 });
 
 const validateCount = joi.object().keys({

@@ -71,9 +71,23 @@ const getRestoMenu = async function(restoID, menuID) {
     }
 };
 
+const getRestoMenuList = async function(restoID, menuID) {
+    try {
+        const rows  = await db.query(
+        `SELECT r.id as resto_id, r."name" , m.id as dish_id, m.dish_name, m.price FROM menus m
+        JOIN restaurants r ON r.id = m.restaurant_id 
+        WHERE r.id = $1`, [restoID]
+        );
+        return rows.rows; 
+    } catch (error) {
+        throw error;
+    }
+};
+
 module.exports ={
     searchRestoByName,
     searchRestoByTime,
     searchRestoByDishCount,
-    getRestoMenu
+    getRestoMenu,
+    getRestoMenuList
 }

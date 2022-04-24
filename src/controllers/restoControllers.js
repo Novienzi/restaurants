@@ -69,6 +69,25 @@ class RestoController {
         }
     } 
 
+    static async getRestoMenuList(req, res, next) {
+        try {
+            const  restoID  = req.params.restoID;
+            const listResto = await restoModel.getRestoMenuList(parseInt(restoID))
+            if (listResto.length >= 1) {
+                res.status(200).send({
+                    status: true,
+                    message :'Success!',
+                    data : listResto
+                })
+            } else {
+                throw new NotFound('there is no data')
+            }
+
+        } catch (err) {
+            next(err)
+        }
+    } 
+
 }
 
 
